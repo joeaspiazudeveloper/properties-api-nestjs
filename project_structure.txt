@@ -1,0 +1,33 @@
+.
+├── db.sqlite
+├── eslint.config.mjs
+├── nest-cli.json
+├── package-lock.json
+├── package.json
+├── project_structure.txt
+├── README.md
+├── src
+│   ├── app.controller.spec.ts
+│   ├── app.controller.ts
+│   ├── app.module.ts
+│   ├── app.service.ts
+│   ├── main.ts
+│   └── properties
+│       ├── __test__
+│       │   ├── properties.controller.spec.ts
+│       │   └── properties.service.spec.ts
+│       ├── dto
+│       │   └── create-property.dto.ts
+│       ├── entities
+│       │   └── property.entity.ts
+│       ├── properties.controller.ts
+│       ├── properties.module.ts
+│       └── properties.service.ts
+├── test
+│   ├── app.e2e-spec.ts
+│   └── jest-e2e.json
+├── tsconfig.build.json
+├── tsconfig.json
+└── yarn.lock
+
+7 directories, 24 files
